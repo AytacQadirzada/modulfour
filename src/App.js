@@ -11,7 +11,7 @@ const App = () => {
   const [movieSearch, setMovieSearch] = useState('transformers');
   const [inputValue, setInputValue] = useState('');
   useEffect(() => {
-    fetch(`http://www.omdbapi.com/?s=${movieSearch}&apikey=c925ff06`)
+    fetch(`https://www.omdbapi.com/?s=${movieSearch}&apikey=c925ff06`)
       .then(res => res.json())
       .then(data => {
         setMovieData(data.Search || []);
