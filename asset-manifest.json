@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/modulfour/static/css/main.ae2cc488.css",
+    "main.js": "/modulfour/static/js/main.788d1f28.js",
+    "static/media/search-button.png": "/modulfour/static/media/search-button.f39824c8c8dd0f7ed49a.png",
+    "index.html": "/modulfour/index.html",
+    "main.ae2cc488.css.map": "/modulfour/static/css/main.ae2cc488.css.map",
+    "main.788d1f28.js.map": "/modulfour/static/js/main.788d1f28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae2cc488.css",
+    "static/js/main.788d1f28.js"
+  ]
+}
